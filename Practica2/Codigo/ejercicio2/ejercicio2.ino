@@ -16,7 +16,7 @@ void setup() {
   WiFi.disconnect();
   delay(3000);
   Serial.println("Iniciando");
-  WiFi.begin("CASTOR-PLAY___2.4Gnormal","Cas123Tor2022"); // esta linea se debe de cambiar usando el WiFi del lab
+  WiFi.begin("Edge 30 Ultra de Diego","11052002"); // esta linea se debe de cambiar usando el WiFi del lab
   while ((!(WiFi.status() == WL_CONNECTED))) {
     Serial.print("......");
     delay(300);
