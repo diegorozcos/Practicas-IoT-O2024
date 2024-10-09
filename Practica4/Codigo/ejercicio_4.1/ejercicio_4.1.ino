@@ -1,5 +1,5 @@
 // Recepción de temperatura vía Bluetooth, visualización en OLED y envío de alertas
-// Código clase IoT - Guadalupe Torres
+// Código clase IoT - Diego Arturo Orozco Sánchez
 
 // Este ESP32 actúa como receptor de temperatura enviada por otro ESP32 (emisor).
 // Además de mostrar la temperatura en una pantalla OLED y activar un LED de alerta,
