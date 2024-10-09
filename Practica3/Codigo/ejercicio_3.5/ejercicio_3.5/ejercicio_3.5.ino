@@ -1,4 +1,4 @@
-// Práctica hecha por Diego Arturo Orozco Sánchez y Luis Padilla Torres - Clase de IoT
+  // Práctica hecha por Diego Arturo Orozco Sánchez y Luis Padilla Torres - Clase de IoT
 #include <SPI.h>
 #include <MFRC522.h>
 

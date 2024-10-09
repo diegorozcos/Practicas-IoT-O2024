@@ -24,7 +24,7 @@ void setup() {
 byte ActualUID[4];             // Almacena el código UID del Tag leído
 // abajo reemplaza por el UID de alguna de tus tarjetas que quieras que tenga acceso
 byte Usuario1[4] = {0x66 , 0xF0, 0x2D, 0x30}; // UID tarjeta CON acceso (reemplaza por tu UID) MI CREDENCIAL
-byte Usuario2[4] = {0xCE, 0x57, 0xDF, 0xA9}; // UID de otra tarjeta que quieras que tenga acceso 
+byte Usuario2[4] = {0x11, 0x63, 0x03, 0x23}; // UID de otra tarjeta que quieras que tenga acceso 
 
 void loop() {
   // Revisa si hay nuevas tarjetas presentes
